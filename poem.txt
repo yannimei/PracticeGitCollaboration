@@ -1,0 +1,7 @@
+red
+orange
+zellow
+green
+qing
+blue 
+purple
